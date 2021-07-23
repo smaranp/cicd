@@ -1,5 +1,4 @@
-mysql-sheshi:
-  image: mysql:5.7
+mysql-sheshi: mysql:5.9
   ports:
     - "3306:3306"
   environment:
