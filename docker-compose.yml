@@ -1,4 +1,4 @@
-mysql-sheshi: mysql:5.9
+mysql-raghu: mysql:5.9
   ports:
     - "3306:3306"
   environment:
