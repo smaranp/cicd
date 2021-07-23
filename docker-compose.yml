@@ -1,4 +1,4 @@
-mysql-raghu: mysql:5.9
+Oracle-mysql: mysql:5.7
   ports:
     - "3306:3306"
   environment:
